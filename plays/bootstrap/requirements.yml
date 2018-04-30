@@ -1,4 +1,4 @@
-- src: git@github.com:unicanova/ansible-users.git
+- src: https://github.com/unicanova/ansible-users.git
   version: master
   name: system-users
   scm: git
