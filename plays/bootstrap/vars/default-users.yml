@@ -1,0 +1,11 @@
+system-users:
+  - name: kkalynovskyi
+    groups: sudo
+    password_sudo: false
+    keys: 
+      - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDGAlJbSMb63HbnnT9gvcWka+6VQ9RTRvSW5cjGt2BBQTMC2NDi0HTdmPj+P8IpRsa873VLWZ3noUseKkNwTFd+18wveVAAUCR/FqH4Zo5SaB4IEIXPLWBKRv3+gQ0tkVvlPGAsPyzmL2EV4g4I/eWQz539sBLEuQA4ZcgEi2DpWO0DJEuPEd43eLVKQGefLqOIgTIStLX0XI2pE5D9J/4dzo4V4sGLjdDqQlLSnt4aGRp0Z381TyPCdbuC0IR762dWgQ41JfhoQwm5fHiJotxi9Zw5Ofo6ytaEwvMhBJASzOy2ZVR4L+HimUtwQcYXj1GDivm8En8fexxkjJxAixwL
+  - name: deployer
+    groups: sudo
+    password_sudo: false
+    keys: 
+      - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDGAlJbSMb63HbnnT9gvcWka+6VQ9RTRvSW5cjGt2BBQTMC2NDi0HTdmPj+P8IpRsa873VLWZ3noUseKkNwTFd+18wveVAAUCR/FqH4Zo5SaB4IEIXPLWBKRv3+gQ0tkVvlPGAsPyzmL2EV4g4I/eWQz539sBLEuQA4ZcgEi2DpWO0DJEuPEd43eLVKQGefLqOIgTIStLX0XI2pE5D9J/4dzo4V4sGLjdDqQlLSnt4aGRp0Z381TyPCdbuC0IR762dWgQ41JfhoQwm5fHiJotxi9Zw5Ofo6ytaEwvMhBJASzOy2ZVR4L+HimUtwQcYXj1GDivm8En8fexxkjJxAixwL
